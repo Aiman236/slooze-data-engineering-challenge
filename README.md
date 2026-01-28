@@ -22,3 +22,5 @@ This project demonstrates an end-to-end data engineering workflow including data
 - Open the project in a Jupyter Notebook
 - *Part A – Scraper:* Copy all the code from scraper.py into *one notebook cell* and run it to generate quotes_data.csv  
 - *Part B – EDA:* Copy all the code from eda.py into *another notebook cell* and run it after the scraper cell to analyze the data and visualize results
+
+Note: A public demo website (quotes.toscrape.com) was used for this assignment to demonstrate scraping logic in a safe and reproducible manner, as commercial B2B platforms like IndiaMART and Alibaba restrict automated scraping.
