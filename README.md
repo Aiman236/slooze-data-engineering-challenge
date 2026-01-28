@@ -24,3 +24,8 @@ This project demonstrates an end-to-end data engineering workflow including data
 - *Part B – EDA:* Copy all the code from eda.py into *another notebook cell* and run it after the scraper cell to analyze the data and visualize results
 
 Note: A public demo website (quotes.toscrape.com) was used for this assignment to demonstrate scraping logic in a safe and reproducible manner, as commercial B2B platforms like IndiaMART and Alibaba restrict automated scraping.
+
+## Insights
+- Albert Einstein appears most frequently, indicating higher quote representation compared to other authors.
+- Most authors appear only once, suggesting the dataset is diverse with limited repetition.
+- The scraped data is clean with no missing values in key fields (quote, author, tags)
